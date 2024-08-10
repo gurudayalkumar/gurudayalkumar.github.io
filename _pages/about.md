@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
-
----
+**Welcome to my personal website!**
 
 I am an **applied environmental economist** with main focus on **socio-economic impacts of climate change**.
 
