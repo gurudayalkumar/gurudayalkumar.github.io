@@ -1,5 +1,6 @@
 ---
-permalink: /markdown/
+permalink:/files
+/CV.pdf
 title: "[Full CV](gurudayalkumar.github.io/files
 /CV.pdf
 )"
