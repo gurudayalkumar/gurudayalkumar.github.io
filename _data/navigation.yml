@@ -5,7 +5,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    files/CV.pdf
 
   #- title: "Talks"
     url: /talks/    
