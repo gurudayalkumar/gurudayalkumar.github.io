@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/guru-dayal-kumar-1007b9174/"
+  linkedin         : "guru-dayal-kumar-1007b9174/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -137,7 +137,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
