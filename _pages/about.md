@@ -16,6 +16,7 @@ I am a 3rd year PhD Candidate in Economics at the [Indian Institute of Technolog
 My current research relates to the **climate change and vulnerability** particularly in developing economies. Applying the IPCC framework and applied machine learning, I study: 
 
 (1) Flood vulnerability index: **an intergrated socioeconomic and environmental approach**; 
+
 (2) **Rainfall and flood impact** prediction. 
 
 I am also studying the relationship between **socio-economic outcomes and flood exposure**.
