@@ -10,7 +10,7 @@ redirect_from:
 **Welcome to my personal website!**
 
 
-I am an **applied environmental economist** with main focus on **socio-economic impacts of climate change**.
+I am an **applied environmental economist** with main focus on **Economics of climate change and Migration**.
 
 
 I am a 3rd year PhD Candidate in Economics at the [Indian Institute of Technology Indore.](https://www.iiti.ac.in/)
