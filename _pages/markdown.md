@@ -1,11 +1,9 @@
 ---
-permalink: /markdown/
+permalink: /CV/
 title: "CV"
-
-2022 - presnt 
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /CV.html
 ---
 
