@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-a
+
 
 Kumar, G.D., Pradhan, K.C. [Assessing the district-level flood vulnerability in Bihar, eastern India: an integrated socioeconomic and environmental approach](https://link.springer.com/article/10.1007/s10661-024-12952-0). Environ Monit Assess 196, 799 (2024). https://doi.org/10.1007/s10661-024-12952-0
 
