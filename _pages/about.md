@@ -36,4 +36,6 @@ Kumar, G. D., Pradhan, K. C., & Tyagi, S. (2024). [Deep Learning Forecasting: An
 **[Book Chapter]**
 
 Kumar, G. D., Tyagi, S., & Pradhan, K. C. (2024). [Predictive ML analysis: Rainfall & flood vulnerability in Bihar, India.](https://www.taylorfrancis.com/chapters/edit/10.1201/9781032700502-71/predictive-ml-analysis-rainfall-flood-vulnerability-bihar-india-guru-dayal-kumar-shekhar-tyagi-kalandi-charan-pradhan) In Artificial Intelligence and Information Technologies (pp. 447-453). CRC Press.
+[PDF Version](https://github.com/gurudayalkumar/gurudayalkumar.github.io/blob/master/files/Predictive%20Analysis%20using%20Machine%20Learning.pdf)
+
 
