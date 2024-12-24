@@ -27,9 +27,11 @@ I am also studying the relationship between **socio-economic outcomes and flood 
 
 **Publications**
 
-Kumar, G.D., Pradhan, K.C. [Assessing the district-level flood vulnerability in Bihar, eastern India: an integrated socioeconomic and environmental approach](https://link.springer.com/article/10.1007/s10661-024-12952-0). Environ Monit Assess 196, 799 (2024). https://doi.org/10.1007/s10661-024-12952-0
+Pradhan, K. C., Kumar, G. D., & Sharma, B. (2024). [Reassessment and determinants of multidimensional poverty: Evidence from cross-country analysis](https://www.worldscientific.com/doi/10.1142/S2810943024500148).International Journal of Empirical Economics.
 
-**[Conference Paper]**
+Kumar, G. D., & Pradhan, K. C. (2024). [Assessing the district-level flood vulnerability in Bihar, eastern India: an integrated socioeconomic and environmental approach](https://link.springer.com/article/10.1007/s10661-024-12952-0). Environmental Monitoring and Assessment, 196(9), 799.
+
+**[Conference Proceedings]**
 
 Kumar, G. D., Pradhan, K. C., & Tyagi, S. (2024). [Deep Learning Forecasting: An LSTM Neural Architecture based Approach to Rainfall and Flood Impact Predictions in Bihar.](https://www.sciencedirect.com/science/article/pii/S1877050924008135) Procedia Computer Science, 235, 1455-1466.
 
