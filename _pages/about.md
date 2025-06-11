@@ -13,7 +13,7 @@ redirect_from:
 I am an **applied environmental economist** with main focus on **economics of climate change and migration**.
 
 
-I am a Visiting Assitant in Research at the [Yale University](https://www.yale.edu/) and 3rd year PhD Candidate at the [Indian Institute of Technology Indore.](https://www.iiti.ac.in/)
+I am 3rd year PhD Candidate at the [Indian Institute of Technology Indore.](https://www.iiti.ac.in/).
 
 
 My current research relates to the **climate change and vulnerability** particularly in developing economies. I study: 
@@ -27,7 +27,9 @@ I am also studying the relationship between **socio-economic outcomes and flood 
 
 **Publications**
 
-Pradhan, K. C., Kumar, G. D., & Sharma, B. (2024). [Reassessment and determinants of multidimensional poverty: Evidence from cross-country analysis](https://www.worldscientific.com/doi/10.1142/S2810943024500148).International Journal of Empirical Economics.
+Kumar, G. D., Tyagi, S., Pradhan, K. C., & Shah, A. (2025). [District-Level Rainfall and Cloudburst Prediction Using XGBoost: A Machine Learning Approach for Early Warning Systems](https://www.informatica.si/index.php/informatica/article/view/7612). Informatica, 49(2).
+
+Pradhan, K. C., Kumar, G. D., & Sharma, B. (2025). [Reassessment and determinants of multidimensional poverty: Evidence from cross-country analysis](https://www.worldscientific.com/doi/full/10.1142/S2810943024500148#:~:text=Further%2C%20the%20findings%20from%20the,of%20any%20group%20of%20countries.).International Journal of Empirical Economics,4(1).
 
 Kumar, G. D., & Pradhan, K. C. (2024). [Assessing the district-level flood vulnerability in Bihar, eastern India: an integrated socioeconomic and environmental approach](https://link.springer.com/article/10.1007/s10661-024-12952-0). Environmental Monitoring and Assessment, 196(9), 799.
 
