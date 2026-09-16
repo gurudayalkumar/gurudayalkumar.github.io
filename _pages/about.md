@@ -13,7 +13,7 @@ redirect_from:
 I am an **applied environmental economist** with main focus on **economics of climate change**.
 
 
-I am 5th year PhD Candidate at the [Migration and Development Research Group]((https://md.rg.iiti.ac.in/)),[Indian Institute of Technology Indore.](https://www.iiti.ac.in/). 
+I am 5th year PhD Candidate at the [Migration and Development Research Group]((https://md.rg.iiti.ac.in/)), [School of Humanities and Social Sciences](https://hss.iiti.ac.in/), [Indian Institute of Technology Indore.](https://www.iiti.ac.in/). 
 
 
 My current research relates to the **climate change and vulnerability** particularly in developing economies. 
