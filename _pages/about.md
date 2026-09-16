@@ -10,22 +10,19 @@ redirect_from:
 **Welcome to my personal website!**
 
 
-I am an **applied environmental economist** with main focus on **economics of climate change and migration**.
+I am an **applied environmental economist** with main focus on **economics of climate change**.
 
 
-I am 4th year PhD Candidate at the [Indian Institute of Technology Indore.](https://www.iiti.ac.in/). 
+I am 5th year PhD Candidate at the [Migration and Development Research Group]((https://md.rg.iiti.ac.in/)),[Indian Institute of Technology Indore.](https://www.iiti.ac.in/). 
 
 
-My current research relates to the **climate change and vulnerability** particularly in developing economies. I study: 
-
-(1) Flood vulnerability index: **an intergrated socioeconomic and environmental approach**; 
-
-(2) **Rainfall and flood impact** prediction. 
-
+My current research relates to the **climate change and vulnerability** particularly in developing economies. 
 
 I am also studying the relationship between **socio-economic outcomes and flood exposure** from the policy perspectives.
 
 **Publications**
+
+**Kumar, G. D.**, Pradhan, K.C. (2026). [Flood exposure and vulnerability to poverty: evidence from rural India.](https://doi.org/10.1038/s41598-026-69030-3)). Sci Rep.
 
 **Kumar, G. D.**, Tyagi, S., Pradhan, K. C., & Shah, A. (2025). [District-Level Rainfall and Cloudburst Prediction Using XGBoost: A Machine Learning Approach for Early Warning Systems](https://www.informatica.si/index.php/informatica/article/view/7612). Informatica, 49(2).
 
